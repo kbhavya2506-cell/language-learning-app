@@ -1,0 +1,11 @@
+Dog, Kutta, easy
+Water, Paani, easy
+Food, Khana, easy
+
+Book, Kitaab, medium
+School, School, medium
+Street, Gali, medium
+
+Window, Khidki, hard
+Bicycle, Saikil, hard
+Umbrella, Chhata, hard

@@ -1,0 +1,14 @@
+Sun | Correct: Soleil
+Rain | Correct: Pluie
+Moon | Correct: Lune
+Food | Correct: Nourriture
+Hello | Correct: Namaste
+Sun | Correct: Sooraj
+Water | Correct: Paani
+Dog | Correct: Kutta
+School | Correct: School
+Child | Correct: Baccha
+Hello | Correct: Namaste
+Hello | Correct: Hola
+Vamos al ___ | Correct: parque
+Yo ___ fútbol | Correct: juego

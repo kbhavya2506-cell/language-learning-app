@@ -1,0 +1,11 @@
+Dog, Perro, easy
+Water, Agua, easy
+Food, Comida, easy
+
+Book, Libro, medium
+School, Escuela, medium
+Street, Calle, medium
+
+Window, Ventana, hard
+Bicycle, Bicicleta, hard
+Umbrella, Paraguas, hard
